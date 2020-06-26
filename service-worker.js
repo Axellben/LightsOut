@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Axellben/LightsOut/precache-manifest.ac50d252495ed90f3908ade52d39fd4b.js"
+  "/LightsOut/precache-manifest.ccb466dff32c4dc22c7f236c46f0407e.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/Axellben/LightsOut/index.html", {
+workbox.routing.registerNavigationRoute("/LightsOut/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

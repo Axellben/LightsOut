@@ -1,13 +1,13 @@
 {
-  "main.css": "/Axellben/LightsOut/static/css/main.62934e5c.chunk.css",
-  "main.js": "/Axellben/LightsOut/static/js/main.6476ecbc.chunk.js",
-  "main.js.map": "/Axellben/LightsOut/static/js/main.6476ecbc.chunk.js.map",
-  "static/js/1.45ea5340.chunk.js": "/Axellben/LightsOut/static/js/1.45ea5340.chunk.js",
-  "static/js/1.45ea5340.chunk.js.map": "/Axellben/LightsOut/static/js/1.45ea5340.chunk.js.map",
-  "runtime~main.js": "/Axellben/LightsOut/static/js/runtime~main.b3e9a877.js",
-  "runtime~main.js.map": "/Axellben/LightsOut/static/js/runtime~main.b3e9a877.js.map",
-  "static/css/main.62934e5c.chunk.css.map": "/Axellben/LightsOut/static/css/main.62934e5c.chunk.css.map",
-  "index.html": "/Axellben/LightsOut/index.html",
-  "precache-manifest.ac50d252495ed90f3908ade52d39fd4b.js": "/Axellben/LightsOut/precache-manifest.ac50d252495ed90f3908ade52d39fd4b.js",
-  "service-worker.js": "/Axellben/LightsOut/service-worker.js"
+  "main.css": "/LightsOut/static/css/main.62934e5c.chunk.css",
+  "main.js": "/LightsOut/static/js/main.b8aaf315.chunk.js",
+  "main.js.map": "/LightsOut/static/js/main.b8aaf315.chunk.js.map",
+  "static/js/1.45ea5340.chunk.js": "/LightsOut/static/js/1.45ea5340.chunk.js",
+  "static/js/1.45ea5340.chunk.js.map": "/LightsOut/static/js/1.45ea5340.chunk.js.map",
+  "runtime~main.js": "/LightsOut/static/js/runtime~main.135e1143.js",
+  "runtime~main.js.map": "/LightsOut/static/js/runtime~main.135e1143.js.map",
+  "static/css/main.62934e5c.chunk.css.map": "/LightsOut/static/css/main.62934e5c.chunk.css.map",
+  "index.html": "/LightsOut/index.html",
+  "precache-manifest.ccb466dff32c4dc22c7f236c46f0407e.js": "/LightsOut/precache-manifest.ccb466dff32c4dc22c7f236c46f0407e.js",
+  "service-worker.js": "/LightsOut/service-worker.js"
 }
