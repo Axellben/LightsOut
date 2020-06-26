@@ -1,0 +1,24 @@
+.Cell {
+  cursor: pointer;
+  /* display: inline-block; */
+  /* height: 15vmin;
+  width: 15vmin; */
+  /* margin: 10px; */
+  height: 15vmin;
+  width: 15vmin;
+  padding: 0px;
+  border: none;
+  border-radius: 10px;
+  box-shadow: 0px 2px 10px 1px #bbb;
+  transition: background-color 0.5s ease;
+}
+
+.Cell-lit {
+  background-color: white;
+}
+
+@media (max-width: 1000px) {
+  .Cell {
+    cursor: none;
+  }
+}
