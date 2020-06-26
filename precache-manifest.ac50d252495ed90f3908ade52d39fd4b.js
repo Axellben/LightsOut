@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/Axellben/LightsOut/static/css/main.62934e5c.chunk.css"
   },
   {
-    "revision": "08de70df180f1b2f737ba617a400ad5b",
+    "revision": "8652bd07d64cf24ab8f326cbfe330530",
     "url": "/Axellben/LightsOut/index.html"
   }
 ];

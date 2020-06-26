@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Axellben/LightsOut/precache-manifest.e27a46b8175bce3cc6bba40b3d186012.js"
+  "/Axellben/LightsOut/precache-manifest.ac50d252495ed90f3908ade52d39fd4b.js"
 );
 
 workbox.clientsClaim();
